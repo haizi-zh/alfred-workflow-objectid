@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>bundleid</key>
-	<string>com.zephyretech.alfred.objectid</string>
+	<string>com.zephyretech.alfred.objectid-analyzer</string>
 	<key>category</key>
 	<string>Tools</string>
 	<key>connections</key>
@@ -30,21 +30,6 @@
 	<string>ObjectId Analyzer</string>
 	<key>objects</key>
 	<array>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>autopaste</key>
-				<false/>
-				<key>clipboardtext</key>
-				<string>{query}</string>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.output.clipboard</string>
-			<key>uid</key>
-			<string>B24D0176-EC7F-4328-95B5-99D5F2743752</string>
-			<key>version</key>
-			<integer>0</integer>
-		</dict>
 		<dict>
 			<key>config</key>
 			<dict>
@@ -77,6 +62,21 @@
 			<string>alfred.workflow.input.scriptfilter</string>
 			<key>uid</key>
 			<string>4B15C08D-99EC-4029-BB79-BA9EBBF8F7BF</string>
+			<key>version</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>autopaste</key>
+				<false/>
+				<key>clipboardtext</key>
+				<string>{query}</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.clipboard</string>
+			<key>uid</key>
+			<string>B24D0176-EC7F-4328-95B5-99D5F2743752</string>
 			<key>version</key>
 			<integer>0</integer>
 		</dict>
