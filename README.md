@@ -12,10 +12,10 @@ Use "oid" as the keyword. The argument can be either "gen", which will generate 
 
 `oid gen`:
 
-![oid gen](http://7af4ik.com1.z0.glb.clouddn.com/alfred/oid-gen.png?imageView2/2/w/600)
+![oid gen](https://camo.githubusercontent.com/284b587223d8819d28ac672545896fd78c08f896/687474703a2f2f37616634696b2e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f616c667265642f6f69642d67656e2e706e673f696d61676556696577322f322f772f363030)
 
 `oid 55fe9ea210114e253ddd0d63`
 
-![oid 55fe9ea210114e253ddd0d63](http://7af4ik.com1.z0.glb.clouddn.com/alfred/oid-parser.png?imageView2/2/w/600)
+![oid 55fe9ea210114e253ddd0d63](https://camo.githubusercontent.com/da9ea94c54d7722ee844240cad09d5ae920cf951/687474703a2f2f37616634696b2e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f616c667265642f6f69642d7061727365722e706e673f696d61676556696577322f322f772f363030)
 
 
